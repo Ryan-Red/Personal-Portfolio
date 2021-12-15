@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.6398eb5f.chunk.css",
+    "main.js": "/Personal-Portfolio/static/js/main.1ebf6458.chunk.js",
+    "main.js.map": "/Personal-Portfolio/static/js/main.1ebf6458.chunk.js.map",
+    "runtime-main.js": "/Personal-Portfolio/static/js/runtime-main.3689f53d.js",
+    "runtime-main.js.map": "/Personal-Portfolio/static/js/runtime-main.3689f53d.js.map",
+    "static/js/2.a1f4f1ff.chunk.js": "/Personal-Portfolio/static/js/2.a1f4f1ff.chunk.js",
+    "static/js/2.a1f4f1ff.chunk.js.map": "/Personal-Portfolio/static/js/2.a1f4f1ff.chunk.js.map",
+    "index.html": "/Personal-Portfolio/index.html",
+    "static/css/main.6398eb5f.chunk.css.map": "/Personal-Portfolio/static/css/main.6398eb5f.chunk.css.map",
+    "static/js/2.a1f4f1ff.chunk.js.LICENSE.txt": "/Personal-Portfolio/static/js/2.a1f4f1ff.chunk.js.LICENSE.txt",
+    "static/media/Arm.d692314e.PNG": "/Personal-Portfolio/static/media/Arm.d692314e.PNG",
+    "static/media/ArmPrinted.284b12af.png": "/Personal-Portfolio/static/media/ArmPrinted.284b12af.png",
+    "static/media/CarChargeBot.6dd2e0f8.jpg": "/Personal-Portfolio/static/media/CarChargeBot.6dd2e0f8.jpg",
+    "static/media/Front_Isometric.946bcf91.JPG": "/Personal-Portfolio/static/media/Front_Isometric.946bcf91.JPG",
+    "static/media/Front_No_Lid.234ef262.JPG": "/Personal-Portfolio/static/media/Front_No_Lid.234ef262.JPG",
+    "static/media/IsometricView.f25a3ee1.PNG": "/Personal-Portfolio/static/media/IsometricView.f25a3ee1.PNG",
+    "static/media/MaggieIRL.9e817b84.jpg": "/Personal-Portfolio/static/media/MaggieIRL.9e817b84.jpg",
+    "static/media/PCB_Routed.3b072d24.PNG": "/Personal-Portfolio/static/media/PCB_Routed.3b072d24.PNG",
+    "static/media/RobotV3_maxesout_raytracing.bb223b82.png": "/Personal-Portfolio/static/media/RobotV3_maxesout_raytracing.bb223b82.png",
+    "static/media/StressAnalysis.0841c677.png": "/Personal-Portfolio/static/media/StressAnalysis.0841c677.png",
+    "static/media/TopDownPicture.0668eeed.jpeg": "/Personal-Portfolio/static/media/TopDownPicture.0668eeed.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3689f53d.js",
+    "static/js/2.a1f4f1ff.chunk.js",
+    "static/css/main.6398eb5f.chunk.css",
+    "static/js/main.1ebf6458.chunk.js"
+  ]
+}
