@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio/static/css/main.6398eb5f.chunk.css",
+    "main.css": "/Personal-Portfolio/static/css/main.a7773d53.chunk.css",
     "main.js": "/Personal-Portfolio/static/js/main.1ebf6458.chunk.js",
     "main.js.map": "/Personal-Portfolio/static/js/main.1ebf6458.chunk.js.map",
     "runtime-main.js": "/Personal-Portfolio/static/js/runtime-main.3689f53d.js",
@@ -8,7 +8,7 @@
     "static/js/2.a1f4f1ff.chunk.js": "/Personal-Portfolio/static/js/2.a1f4f1ff.chunk.js",
     "static/js/2.a1f4f1ff.chunk.js.map": "/Personal-Portfolio/static/js/2.a1f4f1ff.chunk.js.map",
     "index.html": "/Personal-Portfolio/index.html",
-    "static/css/main.6398eb5f.chunk.css.map": "/Personal-Portfolio/static/css/main.6398eb5f.chunk.css.map",
+    "static/css/main.a7773d53.chunk.css.map": "/Personal-Portfolio/static/css/main.a7773d53.chunk.css.map",
     "static/js/2.a1f4f1ff.chunk.js.LICENSE.txt": "/Personal-Portfolio/static/js/2.a1f4f1ff.chunk.js.LICENSE.txt",
     "static/media/Arm.d692314e.PNG": "/Personal-Portfolio/static/media/Arm.d692314e.PNG",
     "static/media/ArmPrinted.284b12af.png": "/Personal-Portfolio/static/media/ArmPrinted.284b12af.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.3689f53d.js",
     "static/js/2.a1f4f1ff.chunk.js",
-    "static/css/main.6398eb5f.chunk.css",
+    "static/css/main.a7773d53.chunk.css",
     "static/js/main.1ebf6458.chunk.js"
   ]
 }
